@@ -1,0 +1,28 @@
+name: Len Villano Photography
+favicon: null
+layout_spectrum: 0.8119716341607273
+typography_spectrum: 0.224472796311602
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.004094111965969205
+  lightness: 0.7873851170297712
+  saturation: 0.8695689614396542
+  rhythmicContrast: 0.8332478415686637
+purpose: []
